@@ -1,0 +1,42 @@
+﻿@model IEnumerable<EcommerceBookStore.Models.Book>
+
+<h2>Books List</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Added By</th>
+            @if (User.IsInRole("Sales Executive"))
+            {
+                <th>Action</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>@book.Price.ToString("C")</td>
+                <td>@book.Quantity</td>
+                <td>@book.CreatedBy</td>
+                @if (User.IsInRole("Sales Executive"))
+                {
+                    <td>
+                        <a class="btn btn-warning" asp-action="Sell" asp-route-id="@book.BookID">Sell</a>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (User.IsInRole("Manager"))
+{
+    <a class="btn btn-primary" asp-action="Create">Add New Book</a>
+}

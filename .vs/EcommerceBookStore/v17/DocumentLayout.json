@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elkomaa\\Downloads\\EcommerceBookStore\\EcommerceBookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elkomaa\\Downloads\\EcommerceBookStore\\EcommerceBookStore\\EcommerceBookStore\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EcommerceBookStore\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elkomaa\\Downloads\\EcommerceBookStore\\EcommerceBookStore\\EcommerceBookStore\\Models\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EcommerceBookStore\\Models\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elkomaa\\Downloads\\EcommerceBookStore\\EcommerceBookStore\\EcommerceBookStore\\Models\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EcommerceBookStore\\Models\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elkomaa\\Downloads\\EcommerceBookStore\\EcommerceBookStore\\EcommerceBookStore\\Views\\Books\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EcommerceBookStore\\Views\\Books\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elkomaa\\Downloads\\EcommerceBookStore\\EcommerceBookStore\\EcommerceBookStore\\Views\\Books\\Sell.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EcommerceBookStore\\Views\\Books\\Sell.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elkomaa\\Downloads\\EcommerceBookStore\\EcommerceBookStore\\EcommerceBookStore\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EcommerceBookStore\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elkomaa\\Downloads\\EcommerceBookStore\\EcommerceBookStore\\EcommerceBookStore\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EcommerceBookStore\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\elkomaa\\Downloads\\EcommerceBookStore\\EcommerceBookStore\\EcommerceBookStore\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EcommerceBookStore\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\elkomaa\\Downloads\\EcommerceBookStore\\EcommerceBookStore\\EcommerceBookStore\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "EcommerceBookStore\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:51:21.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\elkomaa\\Downloads\\EcommerceBookStore\\EcommerceBookStore\\EcommerceBookStore\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "EcommerceBookStore\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\elkomaa\\Downloads\\EcommerceBookStore\\EcommerceBookStore\\EcommerceBookStore\\Models\\Book.cs",
+              "RelativeToolTip": "EcommerceBookStore\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:51:20.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\elkomaa\\Downloads\\EcommerceBookStore\\EcommerceBookStore\\EcommerceBookStore\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "EcommerceBookStore\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\elkomaa\\Downloads\\EcommerceBookStore\\EcommerceBookStore\\EcommerceBookStore\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "EcommerceBookStore\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:51:18.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\elkomaa\\Downloads\\EcommerceBookStore\\EcommerceBookStore\\EcommerceBookStore\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "EcommerceBookStore\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\elkomaa\\Downloads\\EcommerceBookStore\\EcommerceBookStore\\EcommerceBookStore\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "EcommerceBookStore\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T12:50:59.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sell.cshtml",
+              "DocumentMoniker": "C:\\Users\\elkomaa\\Downloads\\EcommerceBookStore\\EcommerceBookStore\\EcommerceBookStore\\Views\\Books\\Sell.cshtml",
+              "RelativeDocumentMoniker": "EcommerceBookStore\\Views\\Books\\Sell.cshtml",
+              "ToolTip": "C:\\Users\\elkomaa\\Downloads\\EcommerceBookStore\\EcommerceBookStore\\EcommerceBookStore\\Views\\Books\\Sell.cshtml",
+              "RelativeToolTip": "EcommerceBookStore\\Views\\Books\\Sell.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T12:50:59.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\elkomaa\\Downloads\\EcommerceBookStore\\EcommerceBookStore\\EcommerceBookStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EcommerceBookStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\elkomaa\\Downloads\\EcommerceBookStore\\EcommerceBookStore\\EcommerceBookStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EcommerceBookStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T12:50:59.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elkomaa\\Downloads\\EcommerceBookStore\\EcommerceBookStore\\EcommerceBookStore\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceBookStore\\Program.cs",
+              "ToolTip": "C:\\Users\\elkomaa\\Downloads\\EcommerceBookStore\\EcommerceBookStore\\EcommerceBookStore\\Program.cs",
+              "RelativeToolTip": "EcommerceBookStore\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:50:59.307Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

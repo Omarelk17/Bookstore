@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EcommerceBookStore",
+    "\\EcommerceBookStore\\Areas",
+    "\\EcommerceBookStore\\Areas\\Identity",
+    "\\EcommerceBookStore\\Areas\\Identity\\Pages",
+    "\\EcommerceBookStore\\bin",
+    "\\EcommerceBookStore\\Controllers",
+    "\\EcommerceBookStore\\obj",
+    "\\EcommerceBookStore\\obj\\Release",
+    "\\EcommerceBookStore\\Properties"
+  ],
+  "SelectedNode": "\\EcommerceBookStore\\Areas\\Identity",
+  "PreviewInSolutionExplorer": false
+}
